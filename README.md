@@ -51,4 +51,4 @@ Sets current node to next Node,previous Node,parent Node,first Node in branch re
 # boolean canMoveNext(),canMovePrevious(),canMoveUp(),canMoveDown()
 returns boolean set to True if next,previous,parent,first branch node exists respectively False otherwise
 
-ps : this hasn't been tested there I only planned on using this and have not used it yet however this might change in the near future but it might not depending on whether I use it or not
+ps : this hasn't been tested I only planned on using this and have not used it yet however this might change in the near future but it might not depending on whether I use it or not
